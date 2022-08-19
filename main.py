@@ -73,7 +73,7 @@ def Dowload(link,path="./"):
 
 
 
-if "__main__" == "__main__":
+if __name__ == "__main__":
 	Dowload("https://cafebazaar.ir/app/com.turbo.moin?l=en")
 
 
